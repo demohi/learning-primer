@@ -1,0 +1,20 @@
+{
+  "name": "learning-primer",
+  "version": "0.0.1",
+  "homepage": "https://github.com/demohi/learning-primer",
+  "authors": [
+    "mdemo <mds@xue.bi>"
+  ],
+  "description": "learing primer",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "primer-css": "~2.1.0"
+  }
+}
